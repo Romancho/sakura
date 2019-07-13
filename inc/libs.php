@@ -11,4 +11,4 @@
     $bootstrapCss = '/vendor/twbs/bootstrap/dist/css/bootstrap.css';
     $bootstrapJs = '/vendor/twbs/bootstrap/dist/js/bootstrap.js';
 
-    $bootstrapTheme = '/vendor/twbs/bootstrap/dist/css/bootstrap-theme.css';
+    $bootstrapTheme = '/vendor/twbs/bootstrap/dist/css/bootstrap-grid.css';
